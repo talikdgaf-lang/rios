@@ -1,0 +1,5 @@
+{
+  "name": "RIO'S KITCHEN",
+  "description": "AI-powered recipe generator focused on Kenyan cuisine. Generate recipes by dish name or ingredients.",
+  "requestFramePermissions": []
+}
